@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Tina! 👋
+
+* Programmer based in Paris, France.
+* Student at 42 campus in Paris - [42 network](https://42.fr/en/homepage/).
+* Currently learning C & C++.
 
 <br />
 
