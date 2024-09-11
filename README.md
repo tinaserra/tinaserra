@@ -1,6 +1,6 @@
 ### Hi there, I'm Valentina! 👋
 
-* Programmer based in Paris, France.
+* Programmer based in Marseille, France.
 * Student at 42 campus in Paris - [42 network](https://42.fr/en/homepage/).
 * Currently learning C, C++.
 
